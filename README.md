@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ali Ganji
 
 💻 Back-end Developer focused on Python and Django  
 🚀 Passionate about building clean and efficient APIs  
