@@ -21,7 +21,3 @@
 ## 📫 Contact Me
 - Email: aliganji142879@gmail.com    
 - LinkedIn: https://linkedin.com/in/aliganji14  
-
----
-
-⭐ If you like my work, feel free to give a star!
