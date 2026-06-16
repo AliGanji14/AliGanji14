@@ -9,33 +9,18 @@
 ## 🧠 Skills
 - Python 🐍
 - Django / Django REST Framework
+- FastAPI
 - Git & GitHub
-- SQL / PostgreSQL
+- PostgreSQL
+- Redis
+- Linux
 - Docker
 
 ---
 
-## 🚀 Projects
-
-### 📦 Online Store Project
-Full e-commerce system built with Django + REST API  
-🔗 [Project Link](#)
-
-### 🤖 Telegram Bot
-Simple bot for message handling and automation  
-🔗 [Project Link](#)
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
-- Email: yourmail@example.com  
-- Telegram: @username  
-- LinkedIn: https://linkedin.com/in/username  
+- Email: aliganji142879@gmail.com    
+- LinkedIn: https://linkedin.com/in/aliganji14  
 
 ---
 
