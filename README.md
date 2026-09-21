@@ -12,7 +12,6 @@
 - FastAPI
 - Git & GitHub
 - PostgreSQL
-- Redis
 - Linux
 - Docker
 
