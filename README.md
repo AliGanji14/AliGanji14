@@ -1,22 +1,20 @@
 # 👋 Hi, I'm Ali Ganji
 
-💻 Back-end Developer focused on Python and Django  
-🚀 Passionate about building clean and efficient APIs  
-📚 Always learning new technologies and improving my skills
+Junior QA Engineer & Python Back-end Developer  
+💻 Working with Django REST Framework & FastAPI  
+🧪 Interested in API testing, test automation, and clean backend design
 
 ---
 
 ## 🧠 Skills
-- Python 🐍
-- Django / Django REST Framework
-- FastAPI
-- Git & GitHub
-- PostgreSQL
-- Linux
-- Docker
+
+- QA: Manual testing, API testing (Postman), Pytest & Playwright, bug tracking (Trello)  
+- Backend: Python, Django REST Framework, FastAPI, RESTful APIs  
+- Tools: Git & GitHub, Docker, Linux
 
 ---
 
-## 📫 Contact Me
-- Email: aliganji142879@gmail.com    
-- LinkedIn: https://linkedin.com/in/aliganji14  
+## 📫 Contact
+
+- Email: [aliganji142879@gmail.com](mailto:aliganji142879@gmail.com)  
+- LinkedIn: [https://linkedin.com/in/aliganji14](https://linkedin.com/in/aliganji14)  
